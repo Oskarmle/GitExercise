@@ -6,3 +6,5 @@ function add(a, b) {
 }
 
 const oskar = "Oskar"
+
+console.log("Oskar")
